@@ -1,0 +1,1 @@
+https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search
